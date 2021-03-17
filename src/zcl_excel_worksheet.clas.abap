@@ -1374,17 +1374,7 @@ CLASS ZCL_EXCEL_WORKSHEET IMPLEMENTATION.
 
     CLEAR:
       subrangeitem,
-      lt_sort_kkblo,
-      <f_collect00>,
-      <f_collect01>,
-      <f_collect02>,
-      <f_collect03>,
-      <f_collect04>,
-      <f_collect05>,
-      <f_collect06>,
-      <f_collect07>,
-      <f_collect08>,
-      <f_collect09>.
+      lt_sort_kkblo.
 
     UNASSIGN:
       <f_collect00>,
